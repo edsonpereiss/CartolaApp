@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cartola App</string>
+
+    <!--string drawer menu-->
+    <string name="menu_info_campeonato">Info. Campeonato</string>
+    <string name="menu_escalar_time">Escalar Time</string>
+    <string name="menu_estatisticas">Estatísticas</string>
+    <string name="menu_minhas_info">Minhas Informações</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="txt_titulo">Ordenação</string>
+    <string name="txt_negativo">Cancelar</string>
+    <string name="txt_rodada">Rodada</string>
+    <string name="txt_classificacao">Classificacão</string>
+    <string name="txt_escalar">Escolha um esquema tático</string>
+    <string name="txt_mecado">Mercado</string>
+    <string name="txt_esquema_tatico">Esquema tático</string>
+    <string name="txt_bola_cheia">Bola Cheia</string>
+    <string name="txt_bola_murcha">Bola Murcha</string>
+    <string name="txt_meu_time">Meu Time</string>
+    <string name="txt_minhas_ligas">Minhas Ligas</string>
+    <!--exit notification-->
+    <string name="press_again_exit_app">Pressione novamente para sair</string>
+
+</resources>

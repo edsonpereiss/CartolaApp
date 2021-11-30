@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="top|center"
+    android:background="#78aa2d"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="#7d7d7d"
+        android:gravity="center"
+        android:elevation="4dp"
+        android:id="@+id/bar">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp" >
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="right" >
+
+                        <LinearLayout
+                            android:orientation="horizontal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="5dp" >
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                                android:text="Patrimônio:"
+                                android:id="@+id/textView60"
+                                android:textSize="10dp"
+                                android:textAllCaps="true"
+                                android:layout_gravity="center_vertical"
+                                android:textColor="@android:color/white"
+                                android:textIsSelectable="false"
+                                android:textStyle="bold" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:text="C$ 100,00"
+                            android:id="@+id/textView47"
+                            android:textSize="10dp"
+                            android:textAllCaps="true"
+                            android:layout_gravity="center_vertical"
+                            android:textColor="@android:color/white"
+                            android:textIsSelectable="false"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp" >
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="right" >
+
+                        <LinearLayout
+                            android:orientation="horizontal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginRight="5dp" >
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                                android:text="Preço time: "
+                                android:id="@+id/textView64"
+                                android:textSize="10dp"
+                                android:textAllCaps="true"
+                                android:layout_gravity="center_vertical"
+                                android:textColor="@android:color/white"
+                                android:textIsSelectable="false"
+                                android:textStyle="bold" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:text="C$ 90,00"
+                            android:id="@+id/textView55"
+                            android:textSize="10dp"
+                            android:textAllCaps="true"
+                            android:layout_gravity="center_vertical"
+                            android:textColor="@android:color/white"
+                            android:textIsSelectable="false"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp" >
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="right" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:text="Sobra: "
+                            android:id="@+id/textView59"
+                            android:textSize="10dp"
+                            android:textAllCaps="true"
+                            android:layout_gravity="center_vertical"
+                            android:textColor="@android:color/white"
+                            android:textIsSelectable="false"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+                            android:text="C$ 10,00"
+                            android:id="@+id/textView57"
+                            android:textSize="10dp"
+                            android:textAllCaps="true"
+                            android:layout_gravity="center_vertical"
+                            android:textColor="@android:color/white"
+                            android:textIsSelectable="false"
+                            android:textStyle="bold"
+                            android:singleLine="false" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ViewFlipper xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/vf"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <include android:id="@+id/esquema_tatico_343" layout="@layout/esquema_tatico_343" />
+            <include android:id="@+id/esquema_tatico_352" layout="@layout/esquema_tatico_352" />
+            <include android:id="@+id/esquema_tatico_433" layout="@layout/esquema_tatico_433" />
+            <include android:id="@+id/esquema_tatico_442" layout="@layout/esquema_tatico_442" />
+            <include android:id="@+id/esquema_tatico_451" layout="@layout/esquema_tatico_451" />
+            <include android:id="@+id/esquema_tatico_532" layout="@layout/esquema_tatico_532" />
+            <include android:id="@+id/esquema_tatico_541" layout="@layout/esquema_tatico_541" />
+
+        </ViewFlipper>
+    </RelativeLayout>
+
+
+</LinearLayout>

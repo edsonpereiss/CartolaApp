@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ActivityMain">
+
+    <item
+        android:id="@+id/action_google_play"
+        android:orderInCategory="100"
+        android:title="New Feed"
+        android:icon="@drawable/ic_trophy_white"
+        app:showAsAction="always" />
+
+</menu>

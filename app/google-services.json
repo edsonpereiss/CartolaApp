@@ -1,0 +1,321 @@
+{
+  "project_info": {
+    "project_number": "427452265581",
+    "firebase_url": "https://sportsmobileamerica.firebaseio.com",
+    "project_id": "sportsmobileamerica",
+    "storage_bucket": "sportsmobileamerica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427452265581:android:3e00411f06e75664",
+        "android_client_info": {
+          "package_name": "mx.sportsmobile.liga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427452265581-ckgv86no8n33eisto091nfsuh65nvlnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo2O8YH0aDCtkE7HK_92skYJiYJemFBKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427452265581:android:b41282cf97c16cbe",
+        "android_client_info": {
+          "package_name": "arg.sportsmobile.primeradivision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427452265581-ckgv86no8n33eisto091nfsuh65nvlnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo2O8YH0aDCtkE7HK_92skYJiYJemFBKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427452265581:android:423e165ba56b79e3",
+        "android_client_info": {
+          "package_name": "liga.sportsmobile.aguila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427452265581-ckgv86no8n33eisto091nfsuh65nvlnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo2O8YH0aDCtkE7HK_92skYJiYJemFBKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427452265581:android:ff2d0bf2747aff1d",
+        "android_client_info": {
+          "package_name": "futbol.sportsmobile.ecuador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427452265581-ckgv86no8n33eisto091nfsuh65nvlnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo2O8YH0aDCtkE7HK_92skYJiYJemFBKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427452265581:android:8d5e265ce98e8125",
+        "android_client_info": {
+          "package_name": "futbol.sportsmobile.paraguayo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427452265581-ckgv86no8n33eisto091nfsuh65nvlnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo2O8YH0aDCtkE7HK_92skYJiYJemFBKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427452265581:android:7e95dfeb81211557",
+        "android_client_info": {
+          "package_name": "futbol.sportsmobile.uruguayo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427452265581-ckgv86no8n33eisto091nfsuh65nvlnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo2O8YH0aDCtkE7HK_92skYJiYJemFBKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427452265581:android:c8256c41ba3d4780",
+        "android_client_info": {
+          "package_name": "futbol.sportsmobile.boliviano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427452265581-ckgv86no8n33eisto091nfsuh65nvlnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo2O8YH0aDCtkE7HK_92skYJiYJemFBKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427452265581:android:a2becf238ad92f57",
+        "android_client_info": {
+          "package_name": "liga.sportsmobile.peruana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427452265581-ckgv86no8n33eisto091nfsuh65nvlnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo2O8YH0aDCtkE7HK_92skYJiYJemFBKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427452265581:android:34486df2222901ce",
+        "android_client_info": {
+          "package_name": "futbol.sportsmobile.chilena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427452265581-ckgv86no8n33eisto091nfsuh65nvlnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo2O8YH0aDCtkE7HK_92skYJiYJemFBKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427452265581:android:c64e63f83b6e79cd",
+        "android_client_info": {
+          "package_name": "seriea.sportsmobile.brasileirao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427452265581-ckgv86no8n33eisto091nfsuh65nvlnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo2O8YH0aDCtkE7HK_92skYJiYJemFBKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

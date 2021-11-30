@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_info_campeonato"
+            android:icon="@drawable/ic_trophy"
+            android:title="@string/menu_info_campeonato"/>
+        <item
+            android:id="@+id/nav_escalar_time"
+            android:icon="@drawable/ic_nav_cart"
+            android:checked="true"
+            android:title="@string/menu_escalar_time"/>
+        <item
+            android:id="@+id/nav_estatisticas"
+            android:icon="@drawable/ic_trending_up_black"
+            android:title="@string/menu_estatisticas"/>
+
+        <item
+            android:id="@+id/nav_minhas_info"
+            android:icon="@drawable/ic_form_people"
+            android:title="@string/menu_minhas_info"/>
+
+    </group>
+
+</menu>
